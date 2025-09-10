@@ -1,2 +1,2 @@
 # LearningGIT
-I use this repository to learn about GIT
+I use this repository to learn about GIT and GITHUB
